@@ -8,6 +8,27 @@
   border-radius: 10px;
   background: rgba(146, 146, 146, 0.4);
   top: 160px;
+	left: 150px;
+  width: 300px;
+  height: 350px;
+}
+
+.contenedorApp2{
+	position: absolute;
+  border-radius: 10px;
+  background: rgba(146, 146, 146, 0.4);
+  top: 160px;
+	left:550px;
+  width: 300px;
+  height: 350px;
+}
+
+.contenedorApp3{
+	position: absolute;
+  border-radius: 10px;
+  background: rgba(146, 146, 146, 0.4);
+  top: 160px;
+	left:950px;
   width: 300px;
   height: 350px;
 }
