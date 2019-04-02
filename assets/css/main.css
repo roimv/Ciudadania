@@ -725,6 +725,7 @@ input, select, textarea {
 		position: absolute;
 		text-align: center;
 		width: 100%;
+		opacity: 0.5;
 	}
 
 /* Wide */
